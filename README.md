@@ -1,0 +1,3 @@
+# Clang ASAN in Windows Github Actions
+
+This is an example of running Clang with ASAN in Windows Github Actions without having to link the ASAN libraries manually, see [workflow file](./.github/workflows/win.yml)...
